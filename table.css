@@ -13,4 +13,6 @@ img {
 a:hover {
     background-color: rgb(7, 90, 173) ;
 }
-    }
+table, th, td {
+    border: 1px solid;
+}
