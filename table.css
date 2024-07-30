@@ -11,11 +11,19 @@ img {
    }
 
 a:hover {
-    background-color: rgb(7, 90, 173) ;
+    background-color: rgb(7, 90, 173);
 }
 table, th, td {
     border: 1px solid;
 }
 th, td {
     text-align: center;
+}
+table {
+  background-color: rgb(146, 233, 255);
+  border-collapse: collapse;
+  width: 50%;
+}
+tr:hover {
+    background-color: rgb(7, 90, 173);
 }
