@@ -2,6 +2,8 @@ body {
     background: url(https://images.unsplash.com/photo-1584890132374-d69d5d01483e?q=80&w=2934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     background-size: cover;
     background-repeat: no-repeat;
+}
+
     
 img {
    width: 400px;
@@ -27,5 +29,19 @@ table {
 tr:hover {
     background-color: rgb(7, 90, 173);
 }
+
+.parallax {
+    /* The image used */
+    background-image: url("img_parallax.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 
  
