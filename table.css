@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    margin: 0;    
 }  
 img {
    width: 100%;
@@ -27,7 +28,7 @@ tr:hover {
 }
 
 .parallax {
-    background-image: url("https://images.unsplash.com/photo-1612977063437-09444bd3e878?q=80&w=2765&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");  
+    background-image: url("https://images.unsplash.com/photo-1532446997697-0b92fdc456fe?q=80&w=2825&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");  
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
